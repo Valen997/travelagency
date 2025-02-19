@@ -1,0 +1,33 @@
+/* style.css */
+.hero {
+    background-image: url('blaack.jpg'); 
+    background-size: cover;
+    background-position: center;
+    color: rgb(221, 234, 38);
+    padding: 100px 0;
+}
+
+.hero h1,
+.hero p {
+    text-align: center;
+}
+
+.destination-card img {
+    height: 200px;
+    object-fit: cover;
+}
+
+.accordion-button {
+    font-weight: bold;
+}
+
+footer {
+    background-color: #333;
+    color: rgb(244, 5, 5);
+    padding: 20px;
+}
+
+footer a {
+    color: rgb(235, 12, 12);
+    margin: 0 10px;
+}
